@@ -322,6 +322,10 @@ footer p {
     clip: rect(0 285px 176px 0);
   }
 
+  .intro p {
+    margin-bottom: 64px;
+  }
+
   .intro section {
     top: 190px;
     left: 925px;
