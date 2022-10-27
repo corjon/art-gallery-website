@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/art-gallery-website-Y6_T88nFR1)
+- Live Site URL: [Github Pages](https://corjon.github.io/art-gallery-website/index.html)
 
 ## My process
 
